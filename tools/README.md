@@ -1,6 +1,6 @@
 # BilibiliHelper For Tools
 B 站直播实用脚本 -- 小工具
-
+/test/
 ---
 > activeSendMsg.php
 功能： 发送随机字符到直播间(5s/1次)，支持多用户
