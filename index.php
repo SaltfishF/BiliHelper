@@ -6,7 +6,7 @@ require "includes/BiliLogin.php";
 
 //输入账号密码必填
 $account = [
-    'username' => '',
+    'username' => 'woqu',
     'password' => '',
 ];
 //判断
